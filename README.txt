@@ -19,12 +19,4 @@ responsive web page, to ensure validations i.e. only correct person is able to l
 have implemented a slide show to show the pictures of various events on the homepage. An event table is created to add an event on a particular date using CSS 
 PHP and HTML.  
 
-We would like to thank Nitin Auluck Sir and Ashu Sir for inspiring and helping us in every stage of this project which was very helpful for us in completing this project.
-
-Prateek Raina (2013CSB1022)
-Rahul Agrawal (2013CSB1024)
-Ramanjot Singh (2013CSB1026)
-
-
-
 
